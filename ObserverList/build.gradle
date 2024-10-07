@@ -1,4 +1,0 @@
-dependencies {
-    compileOnly 'org.projectlombok:lombok:1.18.24' // Usa la versión más reciente
-    annotationProcessor 'org.projectlombok:lombok:1.18.24' // Usa la versión más reciente
-}
