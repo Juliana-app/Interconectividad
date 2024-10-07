@@ -1,0 +1,5 @@
+PatronObserver\Movie.class
+PatronObserver\Cinema.class
+PatronObserver\Movie$MovieBuilder.class
+PatronObserver\Cinema$CinemaBuilder.class
+PatronObserver\Application.class
