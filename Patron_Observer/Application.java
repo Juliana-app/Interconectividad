@@ -1,3 +1,4 @@
+package Patron_Observer;
 public class Application {
     public static void main(String[] args) {
         Product product = new Product("Donuts", "Donuts de chocolate", 10);
